@@ -1,0 +1,6 @@
+<?xml version="1.1" encoding="UTF-8" standalone="yes" ?>
+<Addon Author="Cheebamba" APIVersion="9" Name="CheebaListings" Description="" Version="1">
+    <Script Name="CheebaListings.lua"/>
+    <Form Name="CheebaListings.xml"/>
+    <ReplaceAddon Name="MarketplaceListings"/>
+</Addon>
